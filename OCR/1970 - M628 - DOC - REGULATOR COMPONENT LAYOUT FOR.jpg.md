@@ -1,5 +1,5 @@
 # 1970 - M628 - DOC - REGULATOR COMPONENT LAYOUT FOR.jpg
-Wiki page: [Documents](../../../PAGES/Documents.md)
+Wiki page: [Documents](../../../../PAGES/Documents.md)
 
 
 - **Year:** 1970 (found in this ad: "DATE Oct 70")
@@ -82,7 +82,7 @@ B
 
 ```json
 {
- "file": "Modules/POWER/M628/1970 - M628 - DOC - REGULATOR COMPONENT LAYOUT FOR.jpg",
+ "file": "Modules/POWER/M628/SCHEMATICS/1970 - M628 - DOC - REGULATOR COMPONENT LAYOUT FOR.jpg",
  "sha256": "221b0dd5d950d5f016f213766ede258b120cc926e5c75cad7df75f1648c5cecf",
  "kind": "doc",
  "models": [

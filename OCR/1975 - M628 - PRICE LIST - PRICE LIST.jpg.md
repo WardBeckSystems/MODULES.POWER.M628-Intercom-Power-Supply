@@ -1,5 +1,5 @@
 # 1975 - M628 - PRICE LIST - PRICE LIST.jpg
-Wiki page: [Prices](../../../PAGES/Prices.md)
+Wiki page: [Prices](../../../../PAGES/Prices.md)
 
 
 - **Year:** 1975 (found in this ad: "May 1975")
@@ -135,7 +135,7 @@ DESIGN AND MANUFACTURE OF PROFESSIONAL AUDIO EQUIPMENT
 
 ```json
 {
- "file": "Modules/POWER/M628/1975 - M628 - PRICE LIST - PRICE LIST.jpg",
+ "file": "Modules/POWER/M628/MANUALS/1975 - M628 - PRICE LIST - PRICE LIST.jpg",
  "sha256": "d6f3ecc6f2447ebf786f4d903632721021dcaed0f853c62ea50652d97dd83478",
  "kind": "doc",
  "models": [
