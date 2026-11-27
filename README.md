@@ -1,4 +1,4 @@
-# M628 · Power
+# M628 Intercom Power Supply · Power
 
 Ward-Beck Systems M628, 1970|3. Wiki page: [M628 on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/PAGES/M628.html)
 
