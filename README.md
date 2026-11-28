@@ -1,6 +1,6 @@
 # M628 Intercom Power Supply · Power
 
-Ward-Beck Systems M628, 1970|3. Wiki page: [M628 on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/PAGES/M628.html)
+Ward-Beck Systems M628, 1970|3. Wiki page: [M628 on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/WBSps.ca/Github.WardBeckSystems/MODULES.POWER.M628-Intercom-Power-Supply/)
 
 | Folder | What is in it | Files |
 |---|---|---|

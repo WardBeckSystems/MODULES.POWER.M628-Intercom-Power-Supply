@@ -1,5 +1,5 @@
 # 19xx - M628 - Lamp Power Supply.jpg
-Wiki page: [M628](../../../../PAGES/M628.md)
+Wiki page: [M628](../)
 
 
 - **Year:** unknown (unknown)
